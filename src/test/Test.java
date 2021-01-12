@@ -9,6 +9,7 @@ public class Test {
 		System.out.println("5");
 		System.out.println("99");
 		System.out.println("99");
+		System.out.println("99");
 		
 	}
 }
